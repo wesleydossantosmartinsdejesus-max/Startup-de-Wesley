@@ -1,0 +1,6 @@
+{
+  "name": "Ciclomult_Food",
+  "description": "Modelo de negócio social e ecossistema digital para combate ao desperdício de alimentos, feira local geolocalizada, doações e reciclagem orgânica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
